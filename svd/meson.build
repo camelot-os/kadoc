@@ -18,3 +18,4 @@ svd_files = files()
 
 # Manufacturer subdir list in alpha order
 subdir('st')
+subdir('lowrisc')
